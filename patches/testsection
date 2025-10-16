@@ -1,0 +1,9 @@
+Bottom: 6235c942ecde19841965d8847346659a2f7d1eea
+Top:    6235c942ecde19841965d8847346659a2f7d1eea
+Author: sss <sss@karma>
+Date:   2025-10-16 12:01:29 -0400
+
+Fix usage of SECTION macro in unit tests.
+
+SECTION should be followed by a block.
+Fixes warnings from clang.
