@@ -1,3 +1,5 @@
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
+
 #include "k4SimDelphesAlg.h"
 #include "ExRootAnalysis/ExRootTreeWriter.h"
 #include "edm4hep/RecoMCParticleLinkCollection.h"
