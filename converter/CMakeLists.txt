@@ -2,7 +2,7 @@
 
 add_library(DelphesEDM4HepConverter SHARED src/DelphesEDM4HepConverter.cc)
 target_include_directories(DelphesEDM4HepConverter
-  SYSTEM PUBLIC ${DELPHES_INCLUDE_DIRS}
+  PUBLIC ${DELPHES_INCLUDE_DIRS}
   )
 target_include_directories(DelphesEDM4HepConverter
   PUBLIC
