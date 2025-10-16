@@ -1,24 +1,20 @@
 {
   "version": 5,
-  "prev": "4dc144d8432656fec99282644d9669e939a619d1",
-  "head": "f1c8c282a5e3d4f2adeedc33ef9bb0e37b263701",
+  "prev": "1d74787d2257608643924c9f2cbf52c49c929372",
+  "head": "3824418e3b9ab1bebfe6d0078977861650b94cfe",
   "applied": [
     "depr",
     "testsection",
-    "clangwarn",
-    "refresh-temp"
+    "clangwarn"
   ],
   "unapplied": [],
   "hidden": [],
   "patches": {
     "clangwarn": {
-      "oid": "210e7c46c13ac82d40a6abd58a2745b799a076c7"
+      "oid": "3824418e3b9ab1bebfe6d0078977861650b94cfe"
     },
     "depr": {
       "oid": "0c7b22c64afbcc2e654721d6c8ce5766e3bde0c0"
-    },
-    "refresh-temp": {
-      "oid": "f1c8c282a5e3d4f2adeedc33ef9bb0e37b263701"
     },
     "testsection": {
       "oid": "5b8d5b1dac9da9d1afca45907bcb275fcbcc7553"
