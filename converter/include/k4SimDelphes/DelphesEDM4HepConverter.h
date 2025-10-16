@@ -78,7 +78,7 @@ inline std::vector<BranchSettings> getBranchSettings(ExRootConfParam /*const&*/ 
   return branches;
 }
 
-class OutputSettings;
+struct OutputSettings;
 
 class DelphesEDM4HepConverter {
 public:
