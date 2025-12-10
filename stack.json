@@ -1,31 +1,32 @@
 {
   "version": 5,
-  "prev": "b796d7586baf8303d69028fb8fee2a245fca6632",
-  "head": "6a2c7612ece5621110729c1ddf3076a03e8dd9ee",
-  "applied": [],
-  "unapplied": [
+  "prev": "550d46d14440a8a43c7ae012c596ff1f0bbafcea",
+  "head": "85de0d99fe68f092f4ea1ee9fa6624d3c6133eb8",
+  "applied": [
     "depr",
     "testsection",
     "clangwarn",
-    "danglewarn",
+    "danglewarn"
+  ],
+  "unapplied": [
     "nosystem"
   ],
   "hidden": [],
   "patches": {
     "clangwarn": {
-      "oid": "4604e72339ced2fe33d96a7d9a8d5057d1e0b261"
+      "oid": "662cac1b63a605c68b813c7dbf986ccaabd4f1b8"
     },
     "danglewarn": {
-      "oid": "d7d43dcdb632a9f148be4a5b91f1352e84caedab"
+      "oid": "85de0d99fe68f092f4ea1ee9fa6624d3c6133eb8"
     },
     "depr": {
-      "oid": "1a446ab1e5efbf71fbc1f14118597fc804f32688"
+      "oid": "61991dfaf32bb49da59c3ed0252d8d26ba6a6bdf"
     },
     "nosystem": {
       "oid": "82cd09acf4375634cca97065f06cb4b4f04d610a"
     },
     "testsection": {
-      "oid": "f8be32745ad011e9559a5b5032786d1f441cb710"
+      "oid": "0a3ce67f4e5c263f67c44b6e7893459a8ceda87d"
     }
   }
 }
