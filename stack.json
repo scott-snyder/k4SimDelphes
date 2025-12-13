@@ -1,14 +1,13 @@
 {
   "version": 5,
-  "prev": "1345639415ddcea575649c34decb65385d58ad64",
-  "head": "064e7ae007525c9d599725bda92acae447a62632",
+  "prev": "9263ef3ad39ea6527e19596198323def64e4d260",
+  "head": "205754f6c7aa98586a3b72871a18a36dafa0b5d7",
   "applied": [
     "depr",
     "testsection",
     "clangwarn",
     "nosystem",
-    "cxx26",
-    "refresh-temp"
+    "cxx26"
   ],
   "unapplied": [],
   "hidden": [],
@@ -17,16 +16,13 @@
       "oid": "662cac1b63a605c68b813c7dbf986ccaabd4f1b8"
     },
     "cxx26": {
-      "oid": "3f04ccea9d86edaad875e3a35d80f0c01b75a5ab"
+      "oid": "205754f6c7aa98586a3b72871a18a36dafa0b5d7"
     },
     "depr": {
       "oid": "61991dfaf32bb49da59c3ed0252d8d26ba6a6bdf"
     },
     "nosystem": {
       "oid": "465cc2c96065bbbb1dfb4bdaf30d2f0a93be1ca3"
-    },
-    "refresh-temp": {
-      "oid": "064e7ae007525c9d599725bda92acae447a62632"
     },
     "testsection": {
       "oid": "0a3ce67f4e5c263f67c44b6e7893459a8ceda87d"
