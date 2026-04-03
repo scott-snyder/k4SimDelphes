@@ -1,9 +1,0 @@
-Bottom: c28d38729b4e45049ea2a1631bc9ac685ed25d32
-Top:    c28d38729b4e45049ea2a1631bc9ac685ed25d32
-Author: sss <sss@karma>
-Date:   2026-04-03 17:00:06 -0400
-
-Fix clang warnings.
-
- - struct/class mismatch.
- - unused private data members.

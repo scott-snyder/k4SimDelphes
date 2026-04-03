@@ -1,9 +1,0 @@
-Bottom: c28d38729b4e45049ea2a1631bc9ac685ed25d32
-Top:    c28d38729b4e45049ea2a1631bc9ac685ed25d32
-Author: sss <sss@karma>
-Date:   2026-04-03 16:58:52 -0400
-
-Fix usage of SECTION macro in unit tests.
-
-SECTION should be followed by a block.
-Fixes warnings from clang.
