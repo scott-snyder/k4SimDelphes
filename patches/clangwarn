@@ -1,0 +1,8 @@
+Bottom: bcfbfa55a42144b6d16776d1ea9bea989152c2bd
+Top:    bcfbfa55a42144b6d16776d1ea9bea989152c2bd
+Author: sss <sss@karma>
+Date:   2026-04-03 17:07:23 -0400
+
+Fix clang warnings.
+
+Unused private data members.
