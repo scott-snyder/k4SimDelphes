@@ -191,10 +191,6 @@ private:
   Bool_t m_spareFlag1;
   Int_t m_spareMode1;
   Double_t m_spareParm1, m_spareParm2;
-
-  // for matching
-  Pythia8::CombineMatchingInput* combined = 0;
-  Pythia8::UserHooks* m_matching = 0;
 };
 
 #endif
